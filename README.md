@@ -2,6 +2,9 @@
 ################################################################
 ################################################################
 
+git clone https://github.com/CIPHER0930/PayPal-BruteForce-NinJa
+
+cd PayPal-BruteForce-NinJa
 
 
 
